@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  margin: 0;
+  list-style: none;
+  justify-content: space-evenly;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
